@@ -1,0 +1,19 @@
+.produto, .tamanho, .valor {
+    margin: 20px;
+    padding: 10px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.produtos-moda-cabecalho {
+    background-color: #bb86fc;
+     
+}
+
+.produtos-casa-cabecalho {
+    background-color: #00C4B4;
+}
+
+.produtos-moda-item, .produtos-casa-item {
+    background-color: #424250;
+}
