@@ -1,7 +1,7 @@
 # Desafio HTML e CSS básico
-Desafio do curso DevQuest de HTML e CSS básico. ✌️ 
+Desafio de HTML e CSS básico do curso DevQuest. ✌️ 
 
-[<img src="./desafio.gif" alt="desafio tabelas estilizadas">]
+[<img src="src/images/screenshot.png" alt="desafio tabelas estilizadas">]
 
 ## Tecnologias utilizadas
 - HTML
